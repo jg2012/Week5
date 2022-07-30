@@ -1,0 +1,5 @@
+
+Info: Sat Jul 30 00:32:03 CDT 2022 - Hello
+WARNING: Sat Jul 30 00:32:03 CDT 2022 - This is a warning
+ERROR: Sat Jul 30 00:32:03 CDT 2022 - This is an error!
+WARNING: Sat Jul 30 00:32:03 CDT 2022 - Fatal error
